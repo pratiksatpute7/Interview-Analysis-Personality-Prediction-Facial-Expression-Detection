@@ -6,3 +6,5 @@ A significant feature of this system is the ability to measure and quantify the 
 personality with the help of machine learning and natural language processing. Additionally,
 this project presents how the amalgamation of various algorithms and approaches can help in
 determining the overall personality of the interviewee.
+
+to run project run the final file 
